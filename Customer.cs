@@ -159,6 +159,5 @@ namespace CustomerViewer
             //    return "Hi, my name is " + customerTitle + " " + customerFirstName + " " + customerLastName + ", I am not a VIP";
             //}
         }
-
     }
 }
